@@ -24,7 +24,7 @@
   <a href="/" target="_blank"></a>
 </h2>
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Philimona Portfolio](https://github.com/Filmon12345/Portfolio-master). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [FZ portfolio](https://github.com/Filmon12345/FZportfolio). Thanks!
 
 ## Built With
 
