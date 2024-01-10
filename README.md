@@ -1,14 +1,20 @@
-![Screenshot (30)](https://github.com/Filmon12345/Portfolio-master/assets/105017499/c42fbb78-f4cc-4a94-add3-e1b411b8adfd)
-![Screenshot (31)](https://github.com/Filmon12345/Portfolio-master/assets/105017499/ebdfa95f-a953-478d-b774-1204c351c825)
-![Screenshot (32)](https://github.com/Filmon12345/Portfolio-master/assets/105017499/b333056d-6758-40fa-92f6-1e7ec7b8fd87)
-![Screenshot (33)](https://github.com/Filmon12345/Portfolio-master/assets/105017499/df1cbe8e-fab9-4e65-92c8-5a2598cbbcd3)
-![Screenshot (34)](https://github.com/Filmon12345/Portfolio-master/assets/105017499/9e78ab2c-e9d0-4229-8325-01094eced9f8)
-![Screenshot (35)](https://github.com/Filmon12345/Portfolio-master/assets/105017499/e452d295-8ac5-4f4e-8f34-e3290948e0d8)
-![Screenshot (36)](https://github.com/Filmon12345/Portfolio-master/assets/105017499/a3d86a46-05ad-4d5a-864e-4ca77001a336)
-![Screenshot (37)](https://github.com/Filmon12345/Portfolio-master/assets/105017499/e9722c62-0ea6-431c-9e9a-75639da92579)
-![Screenshot (38)](https://github.com/Filmon12345/Portfolio-master/assets/105017499/0fa63eef-8696-40c2-8fa0-7212486dafd6)
-![Screenshot (39)](https://github.com/Filmon12345/Portfolio-master/assets/105017499/5426887e-b69a-4dd4-8491-87459fc8cd69)
-![Screenshot (40)](https://github.com/Filmon12345/Portfolio-master/assets/105017499/58b4d69a-c448-452e-9499-afc992b4bb10)
+![Screenshot (30)](https://github.com/Filmon12345/FZportfolio/assets/105017499/fbe7bcbe-fb8c-47f5-b826-719b6777ec5b)
+![Screenshot (31)](https://github.com/Filmon12345/FZportfolio/assets/105017499/87536700-8533-4e31-927f-ba051242ac50)
+![Screenshot (32)](https://github.com/Filmon12345/FZportfolio/assets/105017499/f7aab1f4-b068-4275-a855-f5841c104ca2)
+![Screenshot (33)](https://github.com/Filmon12345/FZportfolio/assets/105017499/b616ca0f-24e1-4c4b-805c-13933e45f2c8)
+![Screenshot (34)](https://github.com/Filmon12345/FZportfolio/assets/105017499/f3eb7018-e504-4bea-adcf-c233c1a650c9)
+![Screenshot (35)](https://github.com/Filmon12345/FZportfolio/assets/105017499/00c35344-2421-4a63-9d1e-87d390a51a81)
+![Screenshot (36)](https://github.com/Filmon12345/FZportfolio/assets/105017499/ba9530b4-75d2-457d-8d7c-f270474ecba5)
+![Screenshot (37)](https://github.com/Filmon12345/FZportfolio/assets/105017499/76537773-3ef1-45a8-bd57-31b75d666fe2)
+![Screenshot (38)](https://github.com/Filmon12345/FZportfolio/assets/105017499/f295e9c8-8014-4ee1-89b7-2dc7b3973611)
+![Screenshot (39)](https://github.com/Filmon12345/FZportfolio/assets/105017499/fa3b72f0-f9e0-4815-b190-efc39d3de2e9)
+![Screenshot (40)](https://github.com/Filmon12345/FZportfolio/assets/105017499/e86b1803-f6b4-4a68-8685-056709676e3a)
+
+
+
+
+
+
 
 
 
@@ -18,7 +24,7 @@
   <a href="/" target="_blank"></a>
 </h2>
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Philimona Portfolio](https://github.com/Filmon12345/Portfolio-master). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [FZ portfolio](https://github.com/Filmon12345/FZportfolio). Thanks!
 
 ## Built With
 
@@ -56,6 +62,7 @@ The page will reload if you make edits.
 
 Open the project folder and Navigate to `/src/components/`. <br/>
 You will find all the components used and you can edit your information accordingly.
+![Screenshot (31)](https://github.com/Filmon12345/FZportfolio/assets/105017499/22651a0f-1e4f-4280-b672-30ba1f4b8232)
 
 ### Show your support
 
