@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Java.</b>
+                <b className="purple"> C++, Java and Javascript.</b>
               </i>
               <br />
               <br />
@@ -48,7 +48,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> React.js </b>
               </i>
             </p>
           </Col>
@@ -60,10 +60,7 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
-            <p>
-              Feel free to <span className="purple">connect </span>with me
-            </p>
+            <h1>KEEP IN  <span className="purple">TOUCH </span> WITH ME ON</h1>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
