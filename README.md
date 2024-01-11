@@ -1,5 +1,4 @@
 ![Screenshot (30)](https://github.com/Filmon12345/FZportfolio/assets/105017499/fbe7bcbe-fb8c-47f5-b826-719b6777ec5b)
-![Screenshot (31)](https://github.com/Filmon12345/FZportfolio/assets/105017499/87536700-8533-4e31-927f-ba051242ac50)
 ![Screenshot (32)](https://github.com/Filmon12345/FZportfolio/assets/105017499/f7aab1f4-b068-4275-a855-f5841c104ca2)
 ![Screenshot (33)](https://github.com/Filmon12345/FZportfolio/assets/105017499/b616ca0f-24e1-4c4b-805c-13933e45f2c8)
 ![Screenshot (34)](https://github.com/Filmon12345/FZportfolio/assets/105017499/f3eb7018-e504-4bea-adcf-c233c1a650c9)
