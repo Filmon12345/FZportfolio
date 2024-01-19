@@ -86,7 +86,7 @@ You will find all the components used and you can edit your information accordin
 
 
 This project was built using:
-- React.js  <i class="fa-brands fa-react"></i>
+- React.js  
 - CSS3   
 - Express.js
 - Node.js
