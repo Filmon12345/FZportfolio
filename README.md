@@ -13,13 +13,6 @@
 
 
 
-
-
-
-
-
-
-
 <h2 align="center">
   Portfolio Website<br/>
   <a href="/" target="_blank"></a>
@@ -93,8 +86,8 @@ You will find all the components used and you can edit your information accordin
 
 
 This project was built using:
-- React.js  ![icons8_CSS3_50px](https://github.com/Filmon12345/FZportfolio/assets/105017499/8216cee0-eeea-40d9-9575-566fd6034e6a)
-- CSS3   ![icons8_react_50px](https://github.com/Filmon12345/FZportfolio/assets/105017499/97207108-e8e7-4133-bbe4-d2c424841ab7)
+- React.js  <IoLogoReact />
+- CSS3   
 - Express.js
 - Node.js
 - VsCode
