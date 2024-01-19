@@ -1,3 +1,5 @@
+![2](https://github.com/Filmon12345/FZportfolio/assets/105017499/64b095a7-27d0-481f-a838-a0ffa0e414aa)
+
 ![Screenshot (30)](https://github.com/Filmon12345/FZportfolio/assets/105017499/fbe7bcbe-fb8c-47f5-b826-719b6777ec5b)
 ![Screenshot (32)](https://github.com/Filmon12345/FZportfolio/assets/105017499/f7aab1f4-b068-4275-a855-f5841c104ca2)
 ![Screenshot (33)](https://github.com/Filmon12345/FZportfolio/assets/105017499/b616ca0f-24e1-4c4b-805c-13933e45f2c8)
@@ -27,21 +29,47 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-This project was built using:
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+
 
 ## Features
+- Home/Introduction Page:
 
-**📖 Multi-Page Layout**
+  Brief overview of the individual.
+  Contact Information:
+  
+- About Me/Us Section:
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+  Personal or company background.
+  Professional achievements.
+  Skills and expertise.
+  Educational and work history.
+  
+- Portfolio Showcase:
 
-**📱 Fully Responsive**
+  Display of projects.
+  Descriptions and details about each project.
+  Technologies and skills utilized.
+  
+- Resume/CV:
+
+  Downloadable resume or CV.
+  Professional experience.
+  Skills and competencies.
+ 
+- Responsive Design:
+
+  Mobile-friendly and responsive layout.
+  Ensures a consistent experience across devices.
+  
+- Navigation:
+
+  Easy-to-use navigation menu.
+
+- Social Media Integration:
+
+  Links to professional social media profiles.
+  Social sharing options for projects.
+
 
 ## Getting Started
 
@@ -63,6 +91,12 @@ Open the project folder and Navigate to `/src/components/`. <br/>
 You will find all the components used and you can edit your information accordingly.
 ![Screenshot (31)](https://github.com/Filmon12345/FZportfolio/assets/105017499/22651a0f-1e4f-4280-b672-30ba1f4b8232)
 
-### Show your support
 
-Give a ⭐ if you like this website!
+This project was built using:
+- React.js  ![icons8_CSS3_50px](https://github.com/Filmon12345/FZportfolio/assets/105017499/8216cee0-eeea-40d9-9575-566fd6034e6a)
+- CSS3   ![icons8_react_50px](https://github.com/Filmon12345/FZportfolio/assets/105017499/97207108-e8e7-4133-bbe4-d2c424841ab7)
+- Express.js
+- Node.js
+- VsCode
+- Vercel
+
