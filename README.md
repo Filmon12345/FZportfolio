@@ -22,6 +22,12 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
+This project was built using:
+  - ![React.js](https://img.shields.io/badge/React-%2320232A.svg?&style=for-the-badge&logo=react&logoColor=61DAFB)
+  - ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+  - ![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?&style=for-the-badge&logo=express&logoColor=white)
+   - ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 
 
 ## Features
@@ -85,11 +91,4 @@ You will find all the components used and you can edit your information accordin
 ![Screenshot (31)](https://github.com/Filmon12345/FZportfolio/assets/105017499/22651a0f-1e4f-4280-b672-30ba1f4b8232)
 
 
-This project was built using:
-- React.js  
-- CSS3   
-- Express.js
-- Node.js
-- VsCode
-- Vercel
 
