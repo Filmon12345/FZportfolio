@@ -11,7 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Philimona </span>
             from <span className="purple"> Addis Ababa, Ethiopia.</span>
             <br />
-            I am currently Studing Computer Engineering at Arbaminch University .
+            I recently graduated from <span className="purple"> Arbaminch University.</span> with a degree in Electrical
+            and computer Engineering, specializing in <span className="purple"> Computer Engineering </span>. During my time at the University ,
+            I developed a strong foundation in both hardware and software aspects of engineering
             <br />
             I have completed My Internship Time 
             in <span className="purple">FrontEnd and Backend</span> WEB Development at 
@@ -28,7 +30,7 @@ function AboutCard() {
               <ImPointRight /> Video Editing
             </li>
             <li className="about-activity">
-              <ImPointRight /> Playing Football
+              <ImPointRight /> Participating in voluntary activities
             </li>
           </ul>
 
