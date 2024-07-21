@@ -7,12 +7,14 @@ function AboutCard() {
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote p-0 mb-0">
-          <p style={{ textAlign: "justify" }}>
+          <p style={{ textAlign: "justify" ,lineHeight:"0px"}}>
             Hi Everyone, I am <span className="purple">Philimona </span>
             from <span className="purple"> Addis Ababa, Ethiopia.</span>
             <br/>
             I recently graduated from <span className="purple"> Arbaminch University. </span> 
-            with a degree in Electrical<br></br>and computer<br></br><br></br>Engineering, specializing<br></br><br></br>in<br></br><br></br>Computer Engineering. 
+            with a degree in Electrical<br></br>and computer Engineering, specializing
+            in
+          Computer Engineering. 
             During my time at the University,
             I developed a strong foundation in both hardware and software aspects of engineering.
             I have completed My Internship Time in <span className="purple">FrontEnd and Backend</span> WEB Development at Dan Energy PLC.
