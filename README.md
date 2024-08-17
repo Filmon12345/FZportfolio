@@ -9,6 +9,7 @@
 ![Screenshot (38)](https://github.com/Filmon12345/FZportfolio/assets/105017499/f295e9c8-8014-4ee1-89b7-2dc7b3973611)
 ![Screenshot (39)](https://github.com/Filmon12345/FZportfolio/assets/105017499/fa3b72f0-f9e0-4815-b190-efc39d3de2e9)
 ![Screenshot (40)](https://github.com/Filmon12345/FZportfolio/assets/105017499/e86b1803-f6b4-4a68-8685-056709676e3a)
+![Uploading Copy of Purple White Marketing Manager Modern Profile LinkedIn Article Cover Image.png…]()
 
 
 
