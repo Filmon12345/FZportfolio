@@ -1,6 +1,4 @@
 ![2](https://github.com/Filmon12345/FZportfolio/assets/105017499/64b095a7-27d0-481f-a838-a0ffa0e414aa)
-![Copy of Purple White Marketing Manager Modern Profile LinkedIn Article Cover Image](https://github.com/user-attachments/assets/5faf04f4-e132-4cc5-b9f9-a2819d63f153)
-
 ![Screenshot (30)](https://github.com/Filmon12345/FZportfolio/assets/105017499/fbe7bcbe-fb8c-47f5-b826-719b6777ec5b)
 ![Screenshot (32)](https://github.com/Filmon12345/FZportfolio/assets/105017499/f7aab1f4-b068-4275-a855-f5841c104ca2)
 ![Screenshot (33)](https://github.com/Filmon12345/FZportfolio/assets/105017499/b616ca0f-24e1-4c4b-805c-13933e45f2c8)
