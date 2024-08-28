@@ -4,6 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import clone from "../../Assets/Projects/clone1.PNG";
 import inventory from "../../Assets/Projects/inventory.png";
+import etGebeya from "../../Assets/Projects/Et-Gebeya.jpg";
 
 function Projects() {
   return (
@@ -39,6 +40,18 @@ function Projects() {
               
               Generate customizable reports for actionable insights."
               ghLink="https://github.com/Filmon12345/Mini-Inventory-Managment-Syatem"
+             
+            />
+          </Col>
+          <Col md={10} className="project-card">
+            <ProjectCard
+              imgPath={etGebeya}
+              isBlog={false}
+              title="Et-Gebeya E-Comerce Website"
+              description="E-Commerce platform built with the MERN stack & Redux.
+Full featured shopping cart Product reviews and ratings ,Top products carousel ,PayPal / credit card integration and
+Admin management Mark orders as delivered option and Checkout process"
+              ghLink="https://github.com/Filmon12345/ET_-Gebeya-v2-main"
              
             />
           </Col>
