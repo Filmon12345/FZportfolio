@@ -7,19 +7,21 @@ function AboutCard() {
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote p-0 mb-0">
-          <p style={{ textAlign: "justify"}}>
-            Hi Everyone, I am <span className="purple">Philimona </span>
-            from <span className="purple"> Addis Ababa, Ethiopia.</span>
-            <br/>
-            I recently graduated from <span className="purple"> Arbaminch University. </span> 
-            with a degree in Electrical<br></br>and computer Engineering, specializing
-            in
-          Computer Engineering. 
-            During my time at the University,
-            I developed a strong foundation in both hardware and software aspects of engineering.
-            I have completed My Internship Time in <span className="purple">FrontEnd and Backend</span> WEB Development at Dan Energy PLC.
-            <br/>
-            <br/>
+          <p style={{ textAlign: "left" }}>
+            Hello, I am <span className="purple">Filmon Zinabu </span>
+            from Addis Ababa, Ethiopia.
+            <br />I recently graduated from Arbaminch University with a degree
+            in Electrical and computer Engineering, 
+            specializing in Computer Engineering. <br/>
+            I recently graduated from Arbaminch University with a
+            degree in Electrical and computer Engineering, specializing in
+            Computer Engineering.<br/> During my time at the University, I developed
+            a strong foundation in both hardware and software aspects of
+            engineering. I have completed My Internship Time in{" "}
+            <span className="purple">FrontEnd and Backend</span> WEB Development
+            at Dan Energy PLC.
+            <br />
+            <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
@@ -35,8 +37,8 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "I may not be better than other people,
-            but at least i'm Different !!!"{" "}
+            "I may not be better than other people, but at least i'm Different
+            !!!"{" "}
           </p>
           <footer className="blockquote-footer">Jean-Jacques Roussseau</footer>
         </blockquote>
