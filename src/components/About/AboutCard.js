@@ -10,9 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "left" }}>
             Hello, I am <span className="purple">Filmon Zinabu </span>
             from Addis Ababa, Ethiopia.
-            <br />I recently graduated from Arbaminch University with a degree
-            in Electrical and computer Engineering, 
-            specializing in Computer Engineering. <br/>
+            <br/>
             I recently graduated from Arbaminch University with a
             degree in Electrical and computer Engineering, specializing in
             Computer Engineering.<br/> During my time at the University, I developed
